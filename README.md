@@ -1,4 +1,4 @@
-# <span style="color: blue"> Lets combine Art and Technology!
+# <span style="color: red"> Lets combine Art and Technology!
 
  
 <p align="center">
